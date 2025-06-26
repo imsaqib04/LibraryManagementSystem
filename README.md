@@ -36,11 +36,14 @@ LibraryManagementSystem
 
 ├── Book.java // Book model with issue/return logic
 
-├── User.java // User model (admin/user roles)
+├── User.java // User model (user roles)
+
+├── Admin.java // admin model (admin roles)
 
 ├── Library.java // Main library logic (book list & actions)
 
 └── Main.java // Main class with CLI menu
+
 
 
 ---
